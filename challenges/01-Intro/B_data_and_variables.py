@@ -9,11 +9,11 @@ instructors = 'Dav and Rochelle!'
 ## Now define some other types of variables
 
 ## some_int should be an integer
-float(some_int)
+some_int = 1
 ## some_float should be a float
-
+some_float = 2.
 ## some_bool should be... what do you think?
-
+some_bool = True
 # redefining
 ## Here, I define a variable
 my_lucky_number = 9
